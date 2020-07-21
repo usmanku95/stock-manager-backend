@@ -1,5 +1,5 @@
 ## Usage
-    git clone https://github.com/noumanDev/nodewithpassport.git
+   
     create .env file and copy .example.env into .env
      
     npm install
